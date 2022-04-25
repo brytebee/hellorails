@@ -1,6 +1,6 @@
 # Hello rails
 
-# Description
+## Description
 
 Practice creating rails app.
 
